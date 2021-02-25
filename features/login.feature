@@ -1,6 +1,5 @@
   Feature: Performing a Login
 
-
   Background:
     Given I'm on the Login Page
 

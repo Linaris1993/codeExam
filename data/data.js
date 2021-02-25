@@ -3,6 +3,7 @@ const standardUser = {
     login: "standard_user",
     password: "secret_sauce"
 }
+
 const text = {
     LowestPriceItem: "$7.99",
     finalTotal: "Total: $28.06",

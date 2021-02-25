@@ -3,7 +3,6 @@ import checkOutPage from "../PageObject/checkOutPage";
 import ShoppingFlowPage from "../PageObject/ShoppingFlowPage";
 import {text} from "../data/data";
 
-
     Given (/^Checkout Page$/, () => {
     browser.url('https://www.saucedemo.com/cart');
 });

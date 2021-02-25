@@ -3,7 +3,6 @@
   Background:
     Given I'm on the Home Page
 
-
   Scenario: I can sort items, add and remove items to/from shopping card and add them again
     When I click on sort items field
     Then Dropdown menu appears and i can sort items by price lowest->Highest

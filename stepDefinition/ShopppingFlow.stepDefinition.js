@@ -2,6 +2,7 @@ import {Given, When, Then } from 'cucumber';
 import {text} from "../data/data";
 import ShoppingFlowPage from "../PageObject/ShoppingFlowPage";
 
+
     Given (/^I'm on the Home Page$/, () => {
    browser.url('https://www.saucedemo.com/inventory');
 });
