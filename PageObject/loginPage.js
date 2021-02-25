@@ -6,6 +6,7 @@ class LoginPage {
     get loginBtn() { return $('#login-button') };
     get productLabelHomePage() { return $('.product_label') };
 
+
     LoginAs(user) {
         this.loginField.setValue(standardUser.login);
         this.passwordField.setValue(standardUser.password);

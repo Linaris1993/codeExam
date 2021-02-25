@@ -13,6 +13,7 @@ class ShoppingFlowPage{
     get removeBtn() { return $$('.cart_button')[0]; }
     get continueShopping() { return $('//a[@class="btn_secondary"]') };
 
+
     AddToCardAndGoBack(){
     this.addToCartBtn.click();
     this.backToHomePageBtn.click();

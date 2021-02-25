@@ -17,6 +17,7 @@ import { userInfo } from "../data/data";
       this.zipCodeField.setValue(userInfo.zip);
       if (this.continueBtn.isClickable()){
           this.continueBtn.click();
+
       }
 };
 }
