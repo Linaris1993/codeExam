@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d13ff00-8c7d-49a3-b27d-9337c8000134" name="Default Changelist" comment="codeExam">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1d13ff00-8c7d-49a3-b27d-9337c8000134" name="Default Changelist" comment="codeExam" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +93,7 @@
       <workItem from="1614222535575" duration="9961000" />
       <workItem from="1614270576668" duration="495000" />
       <workItem from="1614271181281" duration="1125000" />
-      <workItem from="1614272331202" duration="641000" />
+      <workItem from="1614272331202" duration="1128000" />
     </task>
     <task id="LOCAL-00001" summary="codeExam">
       <created>1614272643915</created>
@@ -104,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614272643915</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="codeExam">
+      <created>1614273052595</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614273052595</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +144,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="365" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1614232165377" />
+    <state x="121" y="50" key="DiffContextDialog" timestamp="1614273073423">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="50" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1614273073423" />
     <state x="519" y="238" key="Github.ShareDialog" timestamp="1614210870533">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -191,10 +200,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1232" height="201" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1614116508458" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1614272694358">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1614273101126">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1614272694358" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1614273101126" />
     <state x="458" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614211030711">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
