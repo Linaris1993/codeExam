@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d13ff00-8c7d-49a3-b27d-9337c8000134" name="Default Changelist" comment="data commit">
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.13.1.test.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.13.1.test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +98,7 @@
       <workItem from="1614272331202" duration="1465000" />
       <workItem from="1614273827008" duration="440000" />
       <workItem from="1614274279913" duration="963000" />
-      <workItem from="1614275254685" duration="677000" />
+      <workItem from="1614275254685" duration="1128000" />
     </task>
     <task id="LOCAL-00001" summary="codeExam">
       <created>1614272643915</created>

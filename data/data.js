@@ -9,13 +9,11 @@ const text = {
     finalTotal: "Total: $28.06",
     productLabelHomePage: "Products",
     finalPageLabel: "Finish"
-
 }
 const userInfo = {
     firstName: "testName",
     lastName: "testLastName",
     zip: "00000"
-
 }
 
 export { standardUser, text, userInfo };
